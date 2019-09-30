@@ -15,10 +15,10 @@ public class ArrayListChallenges
 			
 			iceCream.add("Rocky Road");
 			iceCream.add("Butter Pecan");
-			iceCream.add("Cotton Candy");
+			iceCream.add("Sweet Cream");
 			iceCream.add("Blackberry");
 			iceCream.add("Caramel Swirl");
-			iceCream.add("Coconut");
+			iceCream.add("French Vanilla");
 			iceCream.add("Dark Chocolate Chunk");
 			iceCream.add("Blueberry");
 			iceCream.add("Watermelon");
@@ -51,10 +51,10 @@ public class ArrayListChallenges
 				
 			
 			//Fourth Challenge
-			for(int i = 0; i < iceCream; i++)
-				{
-					
-				}
+			System.out.println(iceCream.remove(1));
+			System.out.println(iceCream.remove(3));
+			System.out.println(iceCream.remove(7));
+			System.out.println(iceCream.remove(9));
 		
 			
 			//Fifth Challenge
