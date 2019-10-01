@@ -51,10 +51,14 @@ public class ArrayListChallenges
 				
 			
 			//Fourth Challenge
-			System.out.println(iceCream.remove(1));
-			System.out.println(iceCream.remove(3));
-			System.out.println(iceCream.remove(7));
-			System.out.println(iceCream.remove(9));
+			String result = "";
+			for(int i = 0; i < iceCream.size(); i++)
+				{
+				  if(iceC[i].equals("B"))
+					  {
+						  
+					  }
+				}
 		
 			
 			//Fifth Challenge
